@@ -108,7 +108,7 @@ lam2 = Parameter(name = 'lam2',
 mmh = Parameter(name = 'mmh',
                 nature = 'external',
                 type = 'real',
-                value = 100,
+                value = 125.3,
                 texname = 'm_h',
                 lhablock = 'FRBlock',
                 lhacode = [ 12 ])
